@@ -1,3 +1,5 @@
+<!-- Testing github with pull request for this second branch -->
+
 <?php
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") { 
@@ -34,7 +36,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<!-- Required meta tags -->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<title>Uploading image to new folder</title>
@@ -77,3 +78,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
 	</body>
 </html>
+<!-- Test again commit again  -->
